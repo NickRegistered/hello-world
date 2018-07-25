@@ -1,3 +1,0 @@
-# hello-world
-firstrepository
-firstcommit
